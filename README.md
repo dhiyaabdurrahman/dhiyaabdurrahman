@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-**About me ☕**
+#### About me ☕
 - Studies Computer Science at [NUIST](nuist.edu.cn)
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com)
 - Hobbies: Sport and Travelling 
